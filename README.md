@@ -1,5 +1,6 @@
 # Social Media App (Copy)
 
+This project repository is a copy of the main repository at: 
 This project has files for a Twitter-like social media app written in Java. So far the project only has classes establishing the database of the app. A key feature for our app is that each User can select certain interest categories and view a feed of Posts tagged with those categories.
 
 ## Submission
