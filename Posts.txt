@@ -1,0 +1,5 @@
+0,food,user1,Post about food.,2024-12-07 22:31:25,0,0,0
+1,news,user2,News post,2024-12-07 22:31:25,0,0,0
+2,automobiles,cars,Fun post,2024-12-07 22:31:25,0,0,0
+3,news,cars,Bob won the race,2024-12-07 22:31:25,0,0,0
+4,text,Ryan,new post<->Please show up,2024-12-07 22:39:39,0,0,0
