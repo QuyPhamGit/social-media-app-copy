@@ -1,6 +1,6 @@
 # Social Media App (Copy)
 
-This project repository is a copy of the main repository at: https://github.com/randusr923847/cs180-social-media-app, which was private because only our team is allowed to edit the code. This project is part of the CS180: Problem Solving and Programming class at Purdue University.
+This project repository is a copy of the main repository at: https://github.com/randusr923847/cs180-social-media-app which was private because only our team is allowed to edit the code. This project is part of the CS180: Problem Solving and Programming class at Purdue University. So far the project is considered finished
 
 This project has files for a Twitter-like social media app written in Java. So far the project only has classes establishing the database of the app. A key feature for our app is that each User can select certain interest categories and view a feed of Posts tagged with those categories.
 
