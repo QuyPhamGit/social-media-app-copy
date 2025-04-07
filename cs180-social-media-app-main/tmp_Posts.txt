@@ -1,3 +1,0 @@
-post1,data1
-post2,data2
-post3,data3
